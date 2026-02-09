@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": " iio24mar.aternos.me", 
+    "ip": " iio24mar.aternos.me:11361", 
     "port": 11361,   
     "version": "1.12.11"   
   },
