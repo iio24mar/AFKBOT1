@@ -15,3 +15,6 @@
     "mineflayer-pathfinder": "^2.1.1"
   }
 }
+"resolutions": {
+  "ws": "8.13.0"
+}
