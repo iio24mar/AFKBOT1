@@ -1,3 +1,5 @@
+process.on('uncaughtException', console.error)
+process.on('unhandledRejection', console.error)
 const mineflayer = require('mineflayer');
 const Movements = require('mineflayer-pathfinder').Movements;
 const pathfinder = require('mineflayer-pathfinder').pathfinder;
